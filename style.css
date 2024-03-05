@@ -1,13 +1,17 @@
-#body{
+.body1{
 
-    background-image: url(./images/nature-landscape-mountains-photo-wallpaper.jpg);
-    background-size:cover;
+    background-image: url(./images/mountain-tree-cloud-nature.jpg);
+    background-size:2000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
     
 }
     #navbar{
         display: flex;
         font-size: xx-large;
         justify-content: space-between;
+        color: white;
         
         
         
@@ -17,4 +21,66 @@
 
     text-align: center;
     font-size: xx-large;
+    color: white;
+    margin-top: 10%;
 } 
+
+
+
+.textImg{
+    display: flex;
+}
+body{
+    background-color: #0b1d26;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 15%;
+    margin-right: 20%;
+    align-content: center;
+    margin-top: 2%;
+    white-space: small;
+    line-height: 32px;
+    
+
+}
+  
+  /* Create four equal columns */
+.column {
+    flex: 25%;
+    padding: 20px;
+    font-size: larger;
+    margin-bottom: 10%;
+    align-items: center;
+
+    
+}
+
+.arrow{
+    color: #fbd784;
+    background-color: #0b1d26;
+}
+h1{
+    font-family: sans-serif;
+}
+
+#keyText{
+    margin-top: 50%;
+    margin-left: 5%;
+    font-size: large;
+    
+}
+.image{
+    margin-top: 25%;
+    margin-left: 20%;
+
+}
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-family: sans-serif;
+}
