@@ -1,0 +1,20 @@
+#body{
+
+    background-image: url(./images/nature-landscape-mountains-photo-wallpaper.jpg);
+    background-size:cover;
+    
+}
+    #navbar{
+        display: flex;
+        font-size: xx-large;
+        justify-content: space-between;
+        
+        
+        
+    }
+#Frontpage{
+
+
+    text-align: center;
+    font-size: xx-large;
+} 
