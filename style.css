@@ -27,7 +27,7 @@
 
 
 
-.textImg{
+..textImg{
     display: flex;
 }
 body{
@@ -40,10 +40,6 @@ body{
     margin-left: 15%;
     margin-right: 20%;
     align-content: center;
-    margin-top: 2%;
-    white-space: small;
-    line-height: 32px;
-    
 
 }
   
@@ -58,7 +54,7 @@ body{
     
 }
 
-.arrow{
+button{
     color: #fbd784;
     background-color: #0b1d26;
 }
@@ -134,5 +130,52 @@ body{
 }
 .read{
     color: khaki;
+}
+
+#Nature{
+    border: none;
+    background-color: #0b1d26;
+    display: flex;
+    margin-left: auto;
+    margin-right:200px;
+    padding-left: 20%;
+    text-align: center;
+    line-height: 32px;
+      
+
+    
+    
+}
+body{
+    background-color: #0b1d26;
+}
+
+.Image{
+    align-content: center;
+    margin-bottom: 10%;
+    padding: 20px;
+    padding-right: 20px;
+
+}
+.Molly{
+   
+    border: none;
+ font-family: 'Sans Serif', Arial, sans-serif;
+    font-weight: 500;
+    padding-right: 20%;
+    margin: auto;
+    word-spacing: 1px;
+    font-size: 16px;
+    line-height: 32px;
+      
+   
+}
+h1{
+    font-size: 64px;
+    line-height: 110%;
+    
+}
+p{
+    color: white;
 }
 
